@@ -43,7 +43,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "870ff0d86b08f8c2179b36ade70792e7
 "assets/assets/Site_portfolio/TOP_GEAR/top_gear.txt": "c35395fc85ab9678c7717795c9d1fe6b",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "0db35ae7a415370b89e807027510caf0",
-"assets/NOTICES": "594fc0c513fb86a9b75317fb10f5125f",
+"assets/NOTICES": "e7885a5c05d8e2721b617a0f1fc3347e",
 "assets/packages/wakelock_plus/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "c86fbd9e7b17accae76e5ad116583dc4",
@@ -62,9 +62,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "870ff0d86b08f8c2179b36ade70792e7
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "420d956bdd226f8c25b0f2384dda8591",
-"/": "420d956bdd226f8c25b0f2384dda8591",
-"main.dart.js": "026f06040cf9a23794c9dc4b28e5a97a",
+"index.html": "92d84e315201627779e8cbddb0db0629",
+"/": "92d84e315201627779e8cbddb0db0629",
+"main.dart.js": "f19aec58f2deee6b1e1b4bec16ff799e",
 "manifest.json": "ded87d4f20a4076a47d8141e9e0240fa",
 "version.json": "43e03f2dde43aec009302109f360b236"};
 // The application shell files that are downloaded before a service worker can
